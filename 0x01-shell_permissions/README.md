@@ -1,1 +1,1 @@
-readme file for shell permission
+readme file for shell permissions
